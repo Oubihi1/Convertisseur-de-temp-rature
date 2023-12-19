@@ -1,0 +1,25 @@
+/* Créer un fichier CSS pour styliser la page */
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+input {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+button {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: darkblue;
+}
